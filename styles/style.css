@@ -130,7 +130,7 @@
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
-    letter-spacing: 30px; 
+    letter-spacing: 30px;
 }
 
 .aligned-text {
@@ -208,7 +208,7 @@
     position: relative;
     width: 430px;
     min-height: 450px;
-    flex: 1 1 auto;  
+    flex: 1 1 auto;
 }
 
 .card-link {
@@ -254,7 +254,7 @@
 .card__text {
     line-height: 120%; /* 24px */
     font-size: 20px; 
-    font-weight: 400; 
+    font-weight: 400;
 }
 
 .lots__look-more-link {
